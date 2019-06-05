@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Reinforced learning 101: a begginer's tutorial in python
+
+## What is reinforced learning?
 
 You can use the [editor on GitHub](https://github.com/simontamayo/tutorial_rl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
