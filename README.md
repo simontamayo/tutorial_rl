@@ -1,21 +1,25 @@
-# Reinforced learning 101: a begginer's tutorial in python
+# Reinforced learning 101: a beginner's tutorial in python
 
 ## What is reinforced learning?
 
-You can use the [editor on GitHub](https://github.com/simontamayo/tutorial_rl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is Q-learning?
 
-### Markdown
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
 
-Test 
-
-Inline-style: 
 
 ![alt text](./images/fig1.png "Logo Title Text 1")
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Code
 
 ```markdown
 Syntax highlighted code block
