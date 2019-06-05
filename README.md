@@ -6,6 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+Test 
+
+Inline-style: 
+
+![alt text](./images/fig1.png "Logo Title Text 1")
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
