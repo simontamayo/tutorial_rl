@@ -26,8 +26,10 @@ representation is passed to the agent.
 
 
 
-![fig1](./images/fig_agent_and_environment.png){ width=50% }
+![fig1|874×436,50%](./images/fig_agent_and_environment.png)
 *Figure 1. Reinforced learning scenario*
+
+
 
 
 
