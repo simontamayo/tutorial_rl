@@ -24,8 +24,9 @@ Figure 1 shows a typical learning scenario for reinforced learning in which An a
 the environment, this action is interpreted as a reward and a representation of the new state, and this new 
 representation is passed to the agent.
 
-[image]: ./images/fig_agent_and_environment.png
-![Alt text][image] 
+
+
+![fig1](./images/fig_agent_and_environment.png){ width=50% }
 *Figure 1. Reinforced learning scenario*
 
 
