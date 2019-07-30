@@ -39,11 +39,11 @@ identify what is the optimal action for each state, i.e. the one giving the grea
 
 The Q-Learning algorithm therefore seeks to construct the Q-value function, (also called Q-table), which contains the 
 maximum future rewards stretched for an action at each state. To illustrate this, let's take the example of a mouse 
-(our agent) learning the shortest way out of a maze with 11 pieces as shown in Figure XXX (left).
+(our agent) learning the shortest way out of a maze with 11 pieces as shown in Figure 2.
 
 
-![fig1](./images/fig1.png "Maze")
-*Figure 1. Maze*
+![fig2](./images/fig1.png "Maze")
+*Figure 2. Maze*
 
 
 Code
