@@ -37,14 +37,13 @@ is thus composed of an agent, which can evolve in a set of states S, and which c
 execution of an action in a state gives a reward r. The goal of the agent is to maximize his rewards. He must therefore 
 identify what is the optimal action for each state, i.e. the one giving the greatest reward in the long run.
 
-The Q-Learning algorithm therefore seeks to construct the Q-value function, (also called Q-table), which contains the maximum future rewards stretched for an action at each state. To illustrate this, let's take the example of a mouse (our agent) learning the shortest way out of a maze with 11 pieces as shown in Figure 4.21 (left).Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
-Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
-Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
-Abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc abc
+The Q-Learning algorithm therefore seeks to construct the Q-value function, (also called Q-table), which contains the 
+maximum future rewards stretched for an action at each state. To illustrate this, let's take the example of a mouse 
+(our agent) learning the shortest way out of a maze with 11 pieces as shown in Figure XXX (left).
 
 
-![alt text](./images/fig1.png "Logo Title Text 1")
-
+![fig1](./images/fig1.png "Maze")
+*Figure 1. Maze*
 
 
 Code
