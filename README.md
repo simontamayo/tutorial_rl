@@ -25,12 +25,7 @@ the environment, this action is interpreted as a reward and a representation of 
 representation is passed to the agent.
 
 
-
-![fig1|874×436,50%](./images/fig_agent_and_environment.png)
-*Figure 1. Reinforced learning scenario*
-
-
-
+<img src="./images/fig_agent_and_environment.png" width=300 align=center>
 
 
 ## What is Q-learning?
