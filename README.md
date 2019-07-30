@@ -20,12 +20,12 @@ choices. It is through the exploration of the states of a given environement and
 builds his learning examples ("this action was good", "this action was bad"), then, by trial and error, he identifies 
 the policy that maximizes its long-term reward.
 
-[Figure 1](#fig1) shows a typical learninbg scenario for reinforced learning in which An agent performs an action on 
+Figure 1 shows a typical learning scenario for reinforced learning in which An agent performs an action on 
 the environment, this action is interpreted as a reward and a representation of the new state, and this new 
 representation is passed to the agent.
 
-[fig1]: ./images/fig_agent_and_environment.png
-![Alt text][fig1] 
+[image]: ./images/fig_agent_and_environment.png
+![Alt text][image] 
 *Figure 1. Reinforced learning scenario*
 
 
