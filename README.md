@@ -25,7 +25,9 @@ the environment, this action is interpreted as a reward and a representation of 
 representation is passed to the agent.
 
 <div style="width:500px; height:200px">
+
 ![fig1](./images/fig_agent_and_environment.png)
+
 </div>
 
 
