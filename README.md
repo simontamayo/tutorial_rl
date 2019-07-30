@@ -25,7 +25,7 @@ the environment, this action is interpreted as a reward and a representation of 
 representation is passed to the agent.
 
 
-<img src="./images/fig_agent_and_environment.png" width=50% align=center>
+<img src="./images/fig_agent_and_environment.png" width=50% align=centre>
 
 
 ## What is Q-learning?
