@@ -1,2 +1,2 @@
-logo: "/images/simon_tamayo_avatar.png"
+logo: "./images/simon_tamayo_avatar.png"
 theme: jekyll-theme-minimal
